@@ -1,0 +1,877 @@
+[
+  {
+    "paperId": "0088c30bab5c7954508be0b3ccd00122996c266d",
+    "url": "https://www.semanticscholar.org/paper/0088c30bab5c7954508be0b3ccd00122996c266d",
+    "title": "Neural SDEs as a Unified Approach to Continuous-Domain Sequence Modeling",
+    "year": 2025,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null
+    },
+    "fieldsOfStudy": [
+      "Computer Science",
+      "Mathematics"
+    ],
+    "publicationTypes": [
+      "JournalArticle"
+    ],
+    "publicationDate": "2025-01-31"
+  },
+  {
+    "paperId": "04180a3ff23876fd0ed7f2463b5009d1c684b9c6",
+    "url": "https://www.semanticscholar.org/paper/04180a3ff23876fd0ed7f2463b5009d1c684b9c6",
+    "title": "Position: Bayesian Statistics Facilitates Stakeholder Participation in Evaluation of Generative AI",
+    "year": 2025,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null
+    },
+    "fieldsOfStudy": [
+      "Computer Science",
+      "Mathematics"
+    ],
+    "publicationTypes": [
+      "JournalArticle"
+    ],
+    "publicationDate": "2025-04-21"
+  },
+  {
+    "paperId": "041c78eff7e83fb0c2e706071195beff7b27655b",
+    "url": "https://www.semanticscholar.org/paper/041c78eff7e83fb0c2e706071195beff7b27655b",
+    "title": "Receiver-Centric Generative Semantic Communications",
+    "year": 2024,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null
+    },
+    "fieldsOfStudy": [
+      "Computer Science",
+      "Engineering",
+      "Mathematics"
+    ],
+    "publicationTypes": [
+      "JournalArticle"
+    ],
+    "publicationDate": "2024-11-05"
+  },
+  {
+    "paperId": "051bf872d592c3160ec18a5a5caf58aefa61cdd9",
+    "url": "https://www.semanticscholar.org/paper/051bf872d592c3160ec18a5a5caf58aefa61cdd9",
+    "title": "Critically-Damped Higher-Order Langevin Dynamics",
+    "year": 2025,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null
+    },
+    "fieldsOfStudy": [
+      "Mathematics",
+      "Computer Science"
+    ],
+    "publicationTypes": [
+      "JournalArticle"
+    ],
+    "publicationDate": "2025-06-26"
+  },
+  {
+    "paperId": "05301b46b1ccff4547ec5ef7708f23086646c3fb",
+    "url": "https://www.semanticscholar.org/paper/05301b46b1ccff4547ec5ef7708f23086646c3fb",
+    "title": "Generative AI for Bayesian Computation",
+    "year": 2023,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": "CCBY"
+    },
+    "fieldsOfStudy": [
+      "Mathematics",
+      "Medicine"
+    ],
+    "publicationTypes": [
+      "JournalArticle"
+    ],
+    "publicationDate": "2023-05-24"
+  },
+  {
+    "paperId": "057bb1cf2e3450cd2a441f885a587bccbaddc7ba",
+    "url": "https://www.semanticscholar.org/paper/057bb1cf2e3450cd2a441f885a587bccbaddc7ba",
+    "title": "Diffusion Model for Data-Driven Black-Box Optimization",
+    "year": 2024,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null
+    },
+    "fieldsOfStudy": [
+      "Computer Science",
+      "Mathematics"
+    ],
+    "publicationTypes": [
+      "JournalArticle"
+    ],
+    "publicationDate": "2024-03-20"
+  },
+  {
+    "paperId": "0961e92588e5568681e658bdd4d0314dc97c7626",
+    "url": "https://www.semanticscholar.org/paper/0961e92588e5568681e658bdd4d0314dc97c7626",
+    "title": "Information-computation trade-offs in non-linear transforms",
+    "year": 2025,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null
+    },
+    "fieldsOfStudy": [
+      "Computer Science",
+      "Engineering",
+      "Mathematics"
+    ],
+    "publicationTypes": [
+      "JournalArticle"
+    ],
+    "publicationDate": "2025-06-19"
+  },
+  {
+    "paperId": "0af6daf3251cda190d5d7ff4279fabbae8819318",
+    "url": "https://www.semanticscholar.org/paper/0af6daf3251cda190d5d7ff4279fabbae8819318",
+    "title": "Generative AI Agent for Next-Generation MIMO Design: Fundamentals, Challenges, and Vision",
+    "year": 2024,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null
+    },
+    "fieldsOfStudy": [
+      "Computer Science",
+      "Engineering",
+      "Mathematics"
+    ],
+    "publicationTypes": [
+      "JournalArticle",
+      "Review"
+    ],
+    "publicationDate": "2024-04-13"
+  },
+  {
+    "paperId": "0d41aa49860926d12315014c4b26803723037bb8",
+    "url": "https://www.semanticscholar.org/paper/0d41aa49860926d12315014c4b26803723037bb8",
+    "title": "Aligning Model Properties via Conformal Risk Control",
+    "year": 2024,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null
+    },
+    "fieldsOfStudy": [
+      "Computer Science",
+      "Mathematics"
+    ],
+    "publicationTypes": [
+      "JournalArticle"
+    ],
+    "publicationDate": "2024-06-26"
+  },
+  {
+    "paperId": "0088c30bab5c7954508be0b3ccd00122996c266d",
+    "url": "https://www.semanticscholar.org/paper/0088c30bab5c7954508be0b3ccd00122996c266d",
+    "title": "Neural SDEs as a Unified Approach to Continuous-Domain Sequence Modeling",
+    "year": 2025,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null
+    },
+    "fieldsOfStudy": [
+      "Computer Science",
+      "Mathematics"
+    ],
+    "publicationTypes": [
+      "JournalArticle"
+    ],
+    "publicationDate": "2025-01-31"
+  },
+  {
+    "paperId": "04180a3ff23876fd0ed7f2463b5009d1c684b9c6",
+    "url": "https://www.semanticscholar.org/paper/04180a3ff23876fd0ed7f2463b5009d1c684b9c6",
+    "title": "Position: Bayesian Statistics Facilitates Stakeholder Participation in Evaluation of Generative AI",
+    "year": 2025,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null
+    },
+    "fieldsOfStudy": [
+      "Computer Science",
+      "Mathematics"
+    ],
+    "publicationTypes": [
+      "JournalArticle"
+    ],
+    "publicationDate": "2025-04-21"
+  },
+  {
+    "paperId": "041c78eff7e83fb0c2e706071195beff7b27655b",
+    "url": "https://www.semanticscholar.org/paper/041c78eff7e83fb0c2e706071195beff7b27655b",
+    "title": "Receiver-Centric Generative Semantic Communications",
+    "year": 2024,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null
+    },
+    "fieldsOfStudy": [
+      "Computer Science",
+      "Engineering",
+      "Mathematics"
+    ],
+    "publicationTypes": [
+      "JournalArticle"
+    ],
+    "publicationDate": "2024-11-05"
+  },
+  {
+    "paperId": "051bf872d592c3160ec18a5a5caf58aefa61cdd9",
+    "url": "https://www.semanticscholar.org/paper/051bf872d592c3160ec18a5a5caf58aefa61cdd9",
+    "title": "Critically-Damped Higher-Order Langevin Dynamics",
+    "year": 2025,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null
+    },
+    "fieldsOfStudy": [
+      "Mathematics",
+      "Computer Science"
+    ],
+    "publicationTypes": [
+      "JournalArticle"
+    ],
+    "publicationDate": "2025-06-26"
+  },
+  {
+    "paperId": "05301b46b1ccff4547ec5ef7708f23086646c3fb",
+    "url": "https://www.semanticscholar.org/paper/05301b46b1ccff4547ec5ef7708f23086646c3fb",
+    "title": "Generative AI for Bayesian Computation",
+    "year": 2023,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": "CCBY"
+    },
+    "fieldsOfStudy": [
+      "Mathematics",
+      "Medicine"
+    ],
+    "publicationTypes": [
+      "JournalArticle"
+    ],
+    "publicationDate": "2023-05-24"
+  },
+  {
+    "paperId": "057bb1cf2e3450cd2a441f885a587bccbaddc7ba",
+    "url": "https://www.semanticscholar.org/paper/057bb1cf2e3450cd2a441f885a587bccbaddc7ba",
+    "title": "Diffusion Model for Data-Driven Black-Box Optimization",
+    "year": 2024,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null
+    },
+    "fieldsOfStudy": [
+      "Computer Science",
+      "Mathematics"
+    ],
+    "publicationTypes": [
+      "JournalArticle"
+    ],
+    "publicationDate": "2024-03-20"
+  },
+  {
+    "paperId": "0961e92588e5568681e658bdd4d0314dc97c7626",
+    "url": "https://www.semanticscholar.org/paper/0961e92588e5568681e658bdd4d0314dc97c7626",
+    "title": "Information-computation trade-offs in non-linear transforms",
+    "year": 2025,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null
+    },
+    "fieldsOfStudy": [
+      "Computer Science",
+      "Engineering",
+      "Mathematics"
+    ],
+    "publicationTypes": [
+      "JournalArticle"
+    ],
+    "publicationDate": "2025-06-19"
+  },
+  {
+    "paperId": "0af6daf3251cda190d5d7ff4279fabbae8819318",
+    "url": "https://www.semanticscholar.org/paper/0af6daf3251cda190d5d7ff4279fabbae8819318",
+    "title": "Generative AI Agent for Next-Generation MIMO Design: Fundamentals, Challenges, and Vision",
+    "year": 2024,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null
+    },
+    "fieldsOfStudy": [
+      "Computer Science",
+      "Engineering",
+      "Mathematics"
+    ],
+    "publicationTypes": [
+      "JournalArticle",
+      "Review"
+    ],
+    "publicationDate": "2024-04-13"
+  },
+  {
+    "paperId": "0d41aa49860926d12315014c4b26803723037bb8",
+    "url": "https://www.semanticscholar.org/paper/0d41aa49860926d12315014c4b26803723037bb8",
+    "title": "Aligning Model Properties via Conformal Risk Control",
+    "year": 2024,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null
+    },
+    "fieldsOfStudy": [
+      "Computer Science",
+      "Mathematics"
+    ],
+    "publicationTypes": [
+      "JournalArticle"
+    ],
+    "publicationDate": "2024-06-26"
+  },
+  {
+    "paperId": "0088c30bab5c7954508be0b3ccd00122996c266d",
+    "url": "https://www.semanticscholar.org/paper/0088c30bab5c7954508be0b3ccd00122996c266d",
+    "title": "Neural SDEs as a Unified Approach to Continuous-Domain Sequence Modeling",
+    "year": 2025,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null
+    },
+    "fieldsOfStudy": [
+      "Computer Science",
+      "Mathematics"
+    ],
+    "publicationTypes": [
+      "JournalArticle"
+    ],
+    "publicationDate": "2025-01-31"
+  },
+  {
+    "paperId": "04180a3ff23876fd0ed7f2463b5009d1c684b9c6",
+    "url": "https://www.semanticscholar.org/paper/04180a3ff23876fd0ed7f2463b5009d1c684b9c6",
+    "title": "Position: Bayesian Statistics Facilitates Stakeholder Participation in Evaluation of Generative AI",
+    "year": 2025,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null
+    },
+    "fieldsOfStudy": [
+      "Computer Science",
+      "Mathematics"
+    ],
+    "publicationTypes": [
+      "JournalArticle"
+    ],
+    "publicationDate": "2025-04-21"
+  },
+  {
+    "paperId": "041c78eff7e83fb0c2e706071195beff7b27655b",
+    "url": "https://www.semanticscholar.org/paper/041c78eff7e83fb0c2e706071195beff7b27655b",
+    "title": "Receiver-Centric Generative Semantic Communications",
+    "year": 2024,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null
+    },
+    "fieldsOfStudy": [
+      "Computer Science",
+      "Engineering",
+      "Mathematics"
+    ],
+    "publicationTypes": [
+      "JournalArticle"
+    ],
+    "publicationDate": "2024-11-05"
+  },
+  {
+    "paperId": "051bf872d592c3160ec18a5a5caf58aefa61cdd9",
+    "url": "https://www.semanticscholar.org/paper/051bf872d592c3160ec18a5a5caf58aefa61cdd9",
+    "title": "Critically-Damped Higher-Order Langevin Dynamics",
+    "year": 2025,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null
+    },
+    "fieldsOfStudy": [
+      "Mathematics",
+      "Computer Science"
+    ],
+    "publicationTypes": [
+      "JournalArticle"
+    ],
+    "publicationDate": "2025-06-26"
+  },
+  {
+    "paperId": "05301b46b1ccff4547ec5ef7708f23086646c3fb",
+    "url": "https://www.semanticscholar.org/paper/05301b46b1ccff4547ec5ef7708f23086646c3fb",
+    "title": "Generative AI for Bayesian Computation",
+    "year": 2023,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": "CCBY"
+    },
+    "fieldsOfStudy": [
+      "Mathematics",
+      "Medicine"
+    ],
+    "publicationTypes": [
+      "JournalArticle"
+    ],
+    "publicationDate": "2023-05-24"
+  },
+  {
+    "paperId": "057bb1cf2e3450cd2a441f885a587bccbaddc7ba",
+    "url": "https://www.semanticscholar.org/paper/057bb1cf2e3450cd2a441f885a587bccbaddc7ba",
+    "title": "Diffusion Model for Data-Driven Black-Box Optimization",
+    "year": 2024,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null
+    },
+    "fieldsOfStudy": [
+      "Computer Science",
+      "Mathematics"
+    ],
+    "publicationTypes": [
+      "JournalArticle"
+    ],
+    "publicationDate": "2024-03-20"
+  },
+  {
+    "paperId": "0961e92588e5568681e658bdd4d0314dc97c7626",
+    "url": "https://www.semanticscholar.org/paper/0961e92588e5568681e658bdd4d0314dc97c7626",
+    "title": "Information-computation trade-offs in non-linear transforms",
+    "year": 2025,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null
+    },
+    "fieldsOfStudy": [
+      "Computer Science",
+      "Engineering",
+      "Mathematics"
+    ],
+    "publicationTypes": [
+      "JournalArticle"
+    ],
+    "publicationDate": "2025-06-19"
+  },
+  {
+    "paperId": "0af6daf3251cda190d5d7ff4279fabbae8819318",
+    "url": "https://www.semanticscholar.org/paper/0af6daf3251cda190d5d7ff4279fabbae8819318",
+    "title": "Generative AI Agent for Next-Generation MIMO Design: Fundamentals, Challenges, and Vision",
+    "year": 2024,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null
+    },
+    "fieldsOfStudy": [
+      "Computer Science",
+      "Engineering",
+      "Mathematics"
+    ],
+    "publicationTypes": [
+      "JournalArticle",
+      "Review"
+    ],
+    "publicationDate": "2024-04-13"
+  },
+  {
+    "paperId": "0d41aa49860926d12315014c4b26803723037bb8",
+    "url": "https://www.semanticscholar.org/paper/0d41aa49860926d12315014c4b26803723037bb8",
+    "title": "Aligning Model Properties via Conformal Risk Control",
+    "year": 2024,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null
+    },
+    "fieldsOfStudy": [
+      "Computer Science",
+      "Mathematics"
+    ],
+    "publicationTypes": [
+      "JournalArticle"
+    ],
+    "publicationDate": "2024-06-26"
+  },
+  {
+    "paperId": "0088c30bab5c7954508be0b3ccd00122996c266d",
+    "url": "https://www.semanticscholar.org/paper/0088c30bab5c7954508be0b3ccd00122996c266d",
+    "title": "Neural SDEs as a Unified Approach to Continuous-Domain Sequence Modeling",
+    "year": 2025,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null
+    },
+    "fieldsOfStudy": [
+      "Computer Science",
+      "Mathematics"
+    ],
+    "publicationTypes": [
+      "JournalArticle"
+    ],
+    "publicationDate": "2025-01-31"
+  },
+  {
+    "paperId": "04180a3ff23876fd0ed7f2463b5009d1c684b9c6",
+    "url": "https://www.semanticscholar.org/paper/04180a3ff23876fd0ed7f2463b5009d1c684b9c6",
+    "title": "Position: Bayesian Statistics Facilitates Stakeholder Participation in Evaluation of Generative AI",
+    "year": 2025,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null
+    },
+    "fieldsOfStudy": [
+      "Computer Science",
+      "Mathematics"
+    ],
+    "publicationTypes": [
+      "JournalArticle"
+    ],
+    "publicationDate": "2025-04-21"
+  },
+  {
+    "paperId": "041c78eff7e83fb0c2e706071195beff7b27655b",
+    "url": "https://www.semanticscholar.org/paper/041c78eff7e83fb0c2e706071195beff7b27655b",
+    "title": "Receiver-Centric Generative Semantic Communications",
+    "year": 2024,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null
+    },
+    "fieldsOfStudy": [
+      "Computer Science",
+      "Engineering",
+      "Mathematics"
+    ],
+    "publicationTypes": [
+      "JournalArticle"
+    ],
+    "publicationDate": "2024-11-05"
+  },
+  {
+    "paperId": "051bf872d592c3160ec18a5a5caf58aefa61cdd9",
+    "url": "https://www.semanticscholar.org/paper/051bf872d592c3160ec18a5a5caf58aefa61cdd9",
+    "title": "Critically-Damped Higher-Order Langevin Dynamics",
+    "year": 2025,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null
+    },
+    "fieldsOfStudy": [
+      "Mathematics",
+      "Computer Science"
+    ],
+    "publicationTypes": [
+      "JournalArticle"
+    ],
+    "publicationDate": "2025-06-26"
+  },
+  {
+    "paperId": "05301b46b1ccff4547ec5ef7708f23086646c3fb",
+    "url": "https://www.semanticscholar.org/paper/05301b46b1ccff4547ec5ef7708f23086646c3fb",
+    "title": "Generative AI for Bayesian Computation",
+    "year": 2023,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": "CCBY"
+    },
+    "fieldsOfStudy": [
+      "Mathematics",
+      "Medicine"
+    ],
+    "publicationTypes": [
+      "JournalArticle"
+    ],
+    "publicationDate": "2023-05-24"
+  },
+  {
+    "paperId": "057bb1cf2e3450cd2a441f885a587bccbaddc7ba",
+    "url": "https://www.semanticscholar.org/paper/057bb1cf2e3450cd2a441f885a587bccbaddc7ba",
+    "title": "Diffusion Model for Data-Driven Black-Box Optimization",
+    "year": 2024,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null
+    },
+    "fieldsOfStudy": [
+      "Computer Science",
+      "Mathematics"
+    ],
+    "publicationTypes": [
+      "JournalArticle"
+    ],
+    "publicationDate": "2024-03-20"
+  },
+  {
+    "paperId": "0961e92588e5568681e658bdd4d0314dc97c7626",
+    "url": "https://www.semanticscholar.org/paper/0961e92588e5568681e658bdd4d0314dc97c7626",
+    "title": "Information-computation trade-offs in non-linear transforms",
+    "year": 2025,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null
+    },
+    "fieldsOfStudy": [
+      "Computer Science",
+      "Engineering",
+      "Mathematics"
+    ],
+    "publicationTypes": [
+      "JournalArticle"
+    ],
+    "publicationDate": "2025-06-19"
+  },
+  {
+    "paperId": "0af6daf3251cda190d5d7ff4279fabbae8819318",
+    "url": "https://www.semanticscholar.org/paper/0af6daf3251cda190d5d7ff4279fabbae8819318",
+    "title": "Generative AI Agent for Next-Generation MIMO Design: Fundamentals, Challenges, and Vision",
+    "year": 2024,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null
+    },
+    "fieldsOfStudy": [
+      "Computer Science",
+      "Engineering",
+      "Mathematics"
+    ],
+    "publicationTypes": [
+      "JournalArticle",
+      "Review"
+    ],
+    "publicationDate": "2024-04-13"
+  },
+  {
+    "paperId": "0d41aa49860926d12315014c4b26803723037bb8",
+    "url": "https://www.semanticscholar.org/paper/0d41aa49860926d12315014c4b26803723037bb8",
+    "title": "Aligning Model Properties via Conformal Risk Control",
+    "year": 2024,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null
+    },
+    "fieldsOfStudy": [
+      "Computer Science",
+      "Mathematics"
+    ],
+    "publicationTypes": [
+      "JournalArticle"
+    ],
+    "publicationDate": "2024-06-26"
+  },
+  {
+    "paperId": "0088c30bab5c7954508be0b3ccd00122996c266d",
+    "url": "https://www.semanticscholar.org/paper/0088c30bab5c7954508be0b3ccd00122996c266d",
+    "title": "Neural SDEs as a Unified Approach to Continuous-Domain Sequence Modeling",
+    "year": 2025,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null
+    },
+    "fieldsOfStudy": [
+      "Computer Science",
+      "Mathematics"
+    ],
+    "publicationTypes": [
+      "JournalArticle"
+    ],
+    "publicationDate": "2025-01-31"
+  },
+  {
+    "paperId": "04180a3ff23876fd0ed7f2463b5009d1c684b9c6",
+    "url": "https://www.semanticscholar.org/paper/04180a3ff23876fd0ed7f2463b5009d1c684b9c6",
+    "title": "Position: Bayesian Statistics Facilitates Stakeholder Participation in Evaluation of Generative AI",
+    "year": 2025,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null
+    },
+    "fieldsOfStudy": [
+      "Computer Science",
+      "Mathematics"
+    ],
+    "publicationTypes": [
+      "JournalArticle"
+    ],
+    "publicationDate": "2025-04-21"
+  },
+  {
+    "paperId": "041c78eff7e83fb0c2e706071195beff7b27655b",
+    "url": "https://www.semanticscholar.org/paper/041c78eff7e83fb0c2e706071195beff7b27655b",
+    "title": "Receiver-Centric Generative Semantic Communications",
+    "year": 2024,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null
+    },
+    "fieldsOfStudy": [
+      "Computer Science",
+      "Engineering",
+      "Mathematics"
+    ],
+    "publicationTypes": [
+      "JournalArticle"
+    ],
+    "publicationDate": "2024-11-05"
+  },
+  {
+    "paperId": "051bf872d592c3160ec18a5a5caf58aefa61cdd9",
+    "url": "https://www.semanticscholar.org/paper/051bf872d592c3160ec18a5a5caf58aefa61cdd9",
+    "title": "Critically-Damped Higher-Order Langevin Dynamics",
+    "year": 2025,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null
+    },
+    "fieldsOfStudy": [
+      "Mathematics",
+      "Computer Science"
+    ],
+    "publicationTypes": [
+      "JournalArticle"
+    ],
+    "publicationDate": "2025-06-26"
+  },
+  {
+    "paperId": "05301b46b1ccff4547ec5ef7708f23086646c3fb",
+    "url": "https://www.semanticscholar.org/paper/05301b46b1ccff4547ec5ef7708f23086646c3fb",
+    "title": "Generative AI for Bayesian Computation",
+    "year": 2023,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": "CCBY"
+    },
+    "fieldsOfStudy": [
+      "Mathematics",
+      "Medicine"
+    ],
+    "publicationTypes": [
+      "JournalArticle"
+    ],
+    "publicationDate": "2023-05-24"
+  },
+  {
+    "paperId": "057bb1cf2e3450cd2a441f885a587bccbaddc7ba",
+    "url": "https://www.semanticscholar.org/paper/057bb1cf2e3450cd2a441f885a587bccbaddc7ba",
+    "title": "Diffusion Model for Data-Driven Black-Box Optimization",
+    "year": 2024,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null
+    },
+    "fieldsOfStudy": [
+      "Computer Science",
+      "Mathematics"
+    ],
+    "publicationTypes": [
+      "JournalArticle"
+    ],
+    "publicationDate": "2024-03-20"
+  },
+  {
+    "paperId": "0961e92588e5568681e658bdd4d0314dc97c7626",
+    "url": "https://www.semanticscholar.org/paper/0961e92588e5568681e658bdd4d0314dc97c7626",
+    "title": "Information-computation trade-offs in non-linear transforms",
+    "year": 2025,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null
+    },
+    "fieldsOfStudy": [
+      "Computer Science",
+      "Engineering",
+      "Mathematics"
+    ],
+    "publicationTypes": [
+      "JournalArticle"
+    ],
+    "publicationDate": "2025-06-19"
+  },
+  {
+    "paperId": "0af6daf3251cda190d5d7ff4279fabbae8819318",
+    "url": "https://www.semanticscholar.org/paper/0af6daf3251cda190d5d7ff4279fabbae8819318",
+    "title": "Generative AI Agent for Next-Generation MIMO Design: Fundamentals, Challenges, and Vision",
+    "year": 2024,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null
+    },
+    "fieldsOfStudy": [
+      "Computer Science",
+      "Engineering",
+      "Mathematics"
+    ],
+    "publicationTypes": [
+      "JournalArticle",
+      "Review"
+    ],
+    "publicationDate": "2024-04-13"
+  },
+  {
+    "paperId": "0d41aa49860926d12315014c4b26803723037bb8",
+    "url": "https://www.semanticscholar.org/paper/0d41aa49860926d12315014c4b26803723037bb8",
+    "title": "Aligning Model Properties via Conformal Risk Control",
+    "year": 2024,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null
+    },
+    "fieldsOfStudy": [
+      "Computer Science",
+      "Mathematics"
+    ],
+    "publicationTypes": [
+      "JournalArticle"
+    ],
+    "publicationDate": "2024-06-26"
+  }
+]
